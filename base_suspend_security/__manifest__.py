@@ -19,7 +19,7 @@
 {
     "name": "Suspend security",
     "version": "11.0.1.0.0",
-    "author": "Therp BV, Odoo Community Association (OCA)",
+    "author": "Therp BV, brain-tec AG, Odoo Community Association (OCA)",
     "license": "AGPL-3",
     "category": "Hidden/Dependency",
     "summary": "Suspend security checks for a call",
